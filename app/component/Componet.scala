@@ -4,7 +4,6 @@ import model.PessoaDao
 
 trait Componet {
   
-  lazy val pessoaDao: PessoaDao = Locator.pessoaDao
   lazy val getPessoa = Locator.pessoaDao.getPessoa(_)
   lazy val listPessoa = Locator.pessoaDao.listPessoa(_)
 
