@@ -1,0 +1,22 @@
+@(message: String)
+
+
+ <label for="fim" >@message</label>
+ 
+    <h2>Action 1</h2>
+      @helper.form(routes.Application.getPesssoa()) {
+       <label for="id" >Id da pessoa</label> 
+       <input type="text" name="id" id="id"  >
+       
+       <input type="submit" value="Find"/>
+        
+    }
+    
+    
+     <h2>Action 2</h2>
+      @helper.form(routes.Application.list()) {
+       
+       <input type="submit" value="List"/>
+        
+    }
+

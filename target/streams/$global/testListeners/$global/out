@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mservice.PessoaServiceTest[0m
+[0m[[0minfo[0m] [0m[32m+[0m 'Pessoa(1,Rafael,30,3222-0000)' is equal to 'Pessoa(1,Rafael,30,3222-0000)'[0m
+[0m[[0minfo[0m] [0m[32m+[0m List(Pessoa(1,Rafael,30,3222-0000), Pessoa(2,João,22,3222-111), Pessoa(3,Maria,11,4444-2222))[0m
+[0m[[0minfo[0m] [0m is equal to [0m
+[0m[[0minfo[0m] [0mList(Pessoa(1,Rafael,30,3222-0000), Pessoa(2,João,22,3222-111), Pessoa(3,Maria,11,4444-2222))[0m
+[0m[[0minfo[0m] [0m[32m+[0m 'Pessoa(3,Maria,11,4444-2222)' is equal to 'Pessoa(3,Maria,11,4444-2222)'[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for test service.PessoaServiceTest[0m
+[0m[[0minfo[0m] [0m[34mFinished in 0.055 seconds[0m[0m
+[0m[[0minfo[0m] [0m[34m3 tests, 0 failures, 0 errors[0m[0m

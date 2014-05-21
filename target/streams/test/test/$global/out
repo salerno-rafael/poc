@@ -1,0 +1,14 @@
+[0m[[0mdebug[0m] [0mFramework implementation 'org.specs2.runner.Specs2Framework' not present.[0m
+[0m[[0minfo[0m] [0mPessoaServiceTest[0m
+[0m[[0minfo[0m] [0mPessoaService should[0m
+[0m[[0minfo[0m] [0m[32m+[0m Test getPessoa[0m
+[0m[[0minfo[0m] [0m[32m+[0m Test ListPessoa[0m
+[0m[[0minfo[0m] [0m[32m+[0m Test ListPessoa one record[0m
+[0m[[0minfo[0m] [0mTotal for specification PessoaServiceTest[0m
+[0m[[0minfo[0m] [0m[34mFinished in 210 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m3 examples, 0 failure, 0 error[0m[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0mdebug[0m] [0mSummary for specs2 not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 3, Failed 0, Errors 0, Passed 3[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	service.PessoaServiceTest[0m
